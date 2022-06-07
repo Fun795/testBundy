@@ -1,0 +1,19 @@
+{
+  "name": "testbundyu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fun795/testBundyu.git"
+  },
+  "author": "fun795",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fun795/testBundyu/issues"
+  },
+  "homepage": "https://github.com/Fun795/testBundyu#readme"
+}
