@@ -1,4 +1,4 @@
-# testBundyu
+# get sum two minimal numbers
 
 # Start project
 
